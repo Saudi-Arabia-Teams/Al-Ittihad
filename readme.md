@@ -21,7 +21,5 @@ Or, you can simply scan this QR code to be redirected to it:
 <br>
 
 <p align="center">
-<img width="300px" src="https://github.com/Saudi-Arabia-Teams/Al-Ittihad/assets/25140579/0cf767f6-fa19-4f0d-ab32-16decff42edc" alt="QR code" /
+<img width="300px" src="https://github.com/Saudi-Arabia-Teams/Al-Ittihad/assets/25140579/796610c3-7618-4d4d-8d8a-90a803cbce9a" alt="QR code" /
 </p>
-
-
