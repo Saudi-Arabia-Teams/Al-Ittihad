@@ -4,7 +4,7 @@ This is the first release of the Al Ittihad social networking app for use.
 <br>
 
 <p align="center">
-<img width="175px" src="white_no_bg_big.png" alt="Al Ittihad Logo" /
+<img width="200px" src="white_no_bg_big.png" alt="Al Ittihad Logo" /
 </p>
 
 <br>
