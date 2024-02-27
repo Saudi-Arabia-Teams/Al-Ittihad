@@ -14,7 +14,7 @@ This is the first release of the Al Ittihad social networking app for use.
 
 ### Download
 
-You can download and insrakk the .apk file by visiting [this releases page](https://github.com/Saudi-Arabia-Teams/Al-Ittihad/releases/tag/v0.8.7).
+You can download and insrakk the .apk file by visiting [this releases page](https://github.com/Saudi-Arabia-Teams/Al-Ittihad/releases/tag/v1.0.2).
 
 
 Or, you can simply scan this QR code to be redirected to it:
